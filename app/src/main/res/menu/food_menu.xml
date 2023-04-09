@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btm_1"
+        android:enabled="true"
+        android:title="FOOD" />
+
+    <item
+        android:id="@+id/btm_2"
+        android:enabled="true"
+        android:title="DRINKS" />
+
+    <item
+        android:id="@+id/btm_3"
+        android:enabled="true"
+        android:title="SNACKS" />
+</menu>
